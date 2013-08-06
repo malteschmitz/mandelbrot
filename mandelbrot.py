@@ -1,4 +1,4 @@
-# Mandelbrotmengen visualisieren mit Python und Tk
+# Mandelbrotmengen visualisieren mit Python 3 und Tk
 # 
 # Dieser Quelltext ist frei unter der MIT-Lizenz.
 #
@@ -60,7 +60,7 @@ from tkinter.filedialog import asksaveasfilename
 # Laden der Farb-Paletten
 from palettes import palettes
 
-class Mandelbrot():
+class Mandelbrot(object):
     def compute(self):
         # Werte berechnen
         self.data = [[0 for x in range(width)] for y in range(height)]
