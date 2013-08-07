@@ -22,12 +22,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-# Zum Auswählen eines Bereiches mit der Maus ein Rechteck aufziehen. Der
-# ausgewählte Bereich wird nun vergrößert. Dies kann einen Moment dauern.
-# Um zum Ausgangsbereich zurückzukehren, die Taste R drücken. Um die aktuelle
-# Ansicht als GIF-Datei zu exportieren, die Taste S drücken. Die Taste Q
-# beendet die Applikation.
-
 # Dimensionen des Bildes in Pixeln
 width = 640
 height = 480
